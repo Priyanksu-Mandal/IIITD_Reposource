@@ -1,4 +1,3 @@
-# IIITD_Source_Repo (Priyanksu)
 # 📚 IIITD Resources & Tools
 
 A curated collection of tools, study materials, notes, and useful links to help IIITD students (especially newcomers) find everything in one place 🚀.
@@ -51,6 +50,12 @@ A curated collection of tools, study materials, notes, and useful links to help 
 
 ---
 
+## 🎭 Campus Life & Clubs
+- [IIITD Student Clubs](https://studentcouncil.iiitd.edu.in/clubs.html)  
+  🎶 Explore student-run clubs and societies ranging from tech to cultural and beyond.
+
+---
+
 ## 🌐 Extra Resources
 - [IT Ebooks](https://it-ebooks.info)  
   📖 Free IT & programming-related ebooks.
@@ -58,29 +63,4 @@ A curated collection of tools, study materials, notes, and useful links to help 
 ---
 
 ✨ Feel free to explore, contribute, and share these links with fellow IIITD students!  
-
-
-
-
-
-
-
-
-
-IIITD Guide and repo Sites
-https://iiitdplaybook.web.app/projects
-https://github.com/iiitdplaybook/iiitdplaybook?tab=readme-ov-file
-A website for IIITD students to explore everything college has to offer. Tools to help you get through college
-
-
-https://github.com/Audiobytes-IIITD/websiteOfficial 
-Website for Audiobytes, IIITD
-https://audiobytes.vercel.app/
-
-
-
-
-
-
-
-
+Priyanksu
