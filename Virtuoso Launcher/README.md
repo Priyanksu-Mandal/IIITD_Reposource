@@ -37,7 +37,7 @@ which tcsh
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cadence-virtuoso-launcher.git
+git clone (https://github.com/Priyanksu-Mandal/IIITD_Reposource/tree/f4d1af28d5ee84b2b0b4bc92fda3d41f64821060/Virtuoso%20Launcher)
 cd cadence-virtuoso-launcher
 chmod +x install.sh
 ./install.sh
