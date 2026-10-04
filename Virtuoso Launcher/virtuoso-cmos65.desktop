@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cadence Virtuoso (CMOS 65nm)
+Comment=Launch Cadence Virtuoso with the CMOS 65nm environment
+Exec=/bin/csh -c "/PATH/TO/INSTALLATION/launch_virtuoso.csh"
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;Engineering;Electronics;
+StartupNotify=true
